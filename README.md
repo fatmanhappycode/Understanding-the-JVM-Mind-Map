@@ -3,7 +3,7 @@
 
 1. [Java内存区域](https://github.com/fatmanhappycode/Understanding-the-JVM-Mind-Map/tree/master/Java%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F)
 2. [Java对象](https://github.com/fatmanhappycode/Understanding-the-JVM-Mind-Map/tree/master/Java%E5%AF%B9%E8%B1%A1)
-3. [Java垃圾回收]()
+3. [Java垃圾回收](https://github.com/fatmanhappycode/Understanding-the-JVM-Mind-Map/blob/master/Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6/GC.md)
 4. [类文件结构](https://github.com/fatmanhappycode/Understanding-the-JVM-Mind-Map/tree/master/%E7%B1%BB%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84)
 5. [类加载机制](https://github.com/fatmanhappycode/Understanding-the-JVM-Mind-Map/tree/master/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6)
 6. [类加载器](https://github.com/fatmanhappycode/Understanding-the-JVM-Mind-Map/tree/master/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8)
