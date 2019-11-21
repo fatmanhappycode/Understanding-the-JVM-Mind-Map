@@ -1,4 +1,4 @@
-[！[HitCount]（http://hits.dwyl.io/fatmanhappycode/Understanding-the-JVM-Mind-Map.svg）]（http://hits.dwyl.io/fatmanhappycode/Understanding-the-JVM-思维导图）
+[![HitCount](http://hits.dwyl.io/fatmanhappycode/Understanding-the-JVM-Mind-Map.svg)](http://hits.dwyl.io/fatmanhappycode/Understanding-the-JVM-Mind-Map)
 # Understanding-the-JVM-Mind-Map
 周志明的《深入理解Java虚拟机》第二版的思维导图笔记
 
