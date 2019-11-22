@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/fatmanhappycode/Understanding-the-JVM-Mind-Map.svg)](http://hits.dwyl.io/fatmanhappycode/Understanding-the-JVM-Mind-Map)
+[![HitCount](http://hits.dwyl.io/fatmanhappycode/Understanding-the-JVM-Mind-Map.svg)](http://hits.dwyl.io/fatmanhappycode/Understanding-the-JVM-Mind-Map) When you look long into an abyss, the abyss looks into you.
 # Understanding-the-JVM-Mind-Map
 周志明的《深入理解Java虚拟机》第二版的思维导图笔记
 
